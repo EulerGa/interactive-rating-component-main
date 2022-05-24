@@ -33,7 +33,6 @@ main {
     background-color: var(--dark-blue);
     padding: 2rem;
     border-radius: 1.5rem;
-    /* display: none; */
 
 }
 
@@ -113,47 +112,6 @@ main {
     background-color: var(--white);
     color: var(--orange);
 }
-
-/* 
-.preview-rating {
-    margin: 1.5rem 0;
-    display: flex;
-    justify-content: space-between;
-
-}
-
-.rating {
-    padding: 0.8rem 1.2rem;
-    background-color: var(--dark-blue-icon);
-    border-radius: 50%;
-    font-size: 0.9rem;
-    cursor: pointer;
-}
-
-.preview-submit {
-    display: block;
-    align-self: center;
-    padding: 0.8rem;
-    margin-top: 1rem;
-    background-color: var(--orange);
-    color: var(--white);
-    border-radius: 2rem;
-    cursor: pointer;
-    text-align: center;
-    text-transform: uppercase;
-    font-size: 0.8rem;
-    letter-spacing: 0.15rem;
-}
-
-.rating:hover {
-    background-color: var(--light-grey);
-    color: var(--white);
-}
-
-.preview-submit:hover {
-    background-color: var(--white);
-    color: var(--orange);
-} */
 
 .thank {
     width: 22rem;
